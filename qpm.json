@@ -1,5 +1,5 @@
 {
-  "name": "com.github.benlau.testable",
+  "name": "com.github.dushistov.testable",
   "description": "QML Unit Test Utilities",
   "author": {
     "name": "Ben Lau",
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "GITHUB",
-    "url": "https://github.com/benlau/testable.git"
+    "url": "https://github.com/dushistov/testable.git"
   },
   "version": {
     "label": "1.0.2.23",
@@ -18,5 +18,5 @@
   ],
   "license": "APACHE_2_0",
   "pri_filename": "testable.pri",
-  "webpage": "https://github.com/benlau/testable"
+  "webpage": "https://github.com/dushistov/testable"
 }
